@@ -12,7 +12,10 @@ namespace Week4Day3Demo
         {
             //PopErrorHandlingDemo.Demo();
             //ExceptionDemo1.Demo();
-            ExceptionDemo2.Demo();
+            //ExceptionDemo2.Demo();
+            //ExceptionDemo3.Demo();
+            //ExceptionDemo4.Demo();
+            ExceptionDemo5.Demo();
         }
     }
 }

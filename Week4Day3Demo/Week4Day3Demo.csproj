@@ -45,6 +45,10 @@
   <ItemGroup>
     <Compile Include="ExceptionDemo2.cs" />
     <Compile Include="ExceptionDemo1.cs" />
+    <Compile Include="ExceptionDemo3.cs" />
+    <Compile Include="ExceptionDemo4.cs" />
+    <Compile Include="ExceptionDemo5.cs" />
+    <Compile Include="MyLearningAgeOutOfRangeException.cs" />
     <Compile Include="PopErrorHandlingDemo.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
